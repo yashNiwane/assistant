@@ -1,6 +1,6 @@
 # Voice-Activated Virtual Assistant
 
-![Assistant in Action](assistant.jpg)
+![Assistant in Action](assistant.png)
 
 ## Introduction
 
